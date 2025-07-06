@@ -1,7 +1,7 @@
-STEPS TO RUN THE CODE:
-Go to https://www.weatherapi.com/signup.aspx
-Create a free account
-Copy the API KEY (https://www.weatherapi.com/my/)
-go to script.js file
-Place the API Key inside the single quotes 
-const api = 'PASTEAPIKEY'
+STEPS TO RUN THE CODE: <br />
+Go to https://www.weatherapi.com/signup.aspx <br />
+Create a free account <br />
+Copy the API KEY (https://www.weatherapi.com/my/) <br />
+go to script.js file <br />
+Place the API Key inside the single quotes <br />
+const api = 'PASTEAPIKEY' <br />
