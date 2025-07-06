@@ -1,4 +1,4 @@
-const api = 'dbe139db718e460896b04127250107';
+const api = ''
 
 document.querySelector('button').addEventListener('click', async () => {
   const city = document.getElementById('cityInput').value.trim();
