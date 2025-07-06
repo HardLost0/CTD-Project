@@ -1,7 +1,4 @@
-A simple weather application using the openweather API.
-
 STEPS TO RUN THE CODE:
-
 Go to https://www.weatherapi.com/signup.aspx
 Create a free account
 Copy the API KEY (https://www.weatherapi.com/my/)
